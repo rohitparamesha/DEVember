@@ -5,7 +5,8 @@ const App = ()=>{
   console.log('Rohit');
   return (
     <View style={styles.container}>
-      <Text>My First Expo App !</Text>
+      <Text>Hello World,</Text>
+      <Text>#DEVember</Text>
       <StatusBar style="auto" />
     </View>
   );
